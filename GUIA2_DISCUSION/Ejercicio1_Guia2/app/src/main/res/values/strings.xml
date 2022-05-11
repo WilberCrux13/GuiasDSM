@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio1_Guia2</string>
+    <string name="count_label_count">CONTADOR</string>
+    <string name="count_initial_value">0</string>
+</resources>
